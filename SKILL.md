@@ -1,3 +1,10 @@
+---
+name: awesome-design-md
+description: "精选的 DESIGN.md 设计系统文档集合,包含 60+ 知名产品设计规范。使用场景:需要快速搭建符合知名产品风格的 UI、学习顶级产品设计系统、为 AI 编码助手提供设计指导。复制一个 DESIGN.md 到项目,让 AI 生成像素级完美的 UI。"
+homepage: https://github.com/VoltAgent/awesome-design-md
+metadata: { "openclaw": { "emoji": "🎨", "category": "design" } }
+---
+
 # Awesome DESIGN.md Skill
 
 ## 概述
